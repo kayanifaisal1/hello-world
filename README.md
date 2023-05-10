@@ -1,3 +1,3 @@
 # hello-world
 Hello World repository for Git.
-welcome
+welcome to hello-world
